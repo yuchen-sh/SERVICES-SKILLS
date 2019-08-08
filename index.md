@@ -26,6 +26,4 @@
 * Skiing (beginner);
 * Marathon (completed the half Marathon race and won the metal). 
 
-<div style="text-align:left">
-     <a href="#top"><input type="button" value="[back to Homepage](https://yuchen-sh.github.io)" /></a>
-</div>
+[<u><font size='4'>Back to Homepage</font></u>](https://yuchen-sh.github.io)
