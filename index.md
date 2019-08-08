@@ -27,5 +27,5 @@
 * Marathon (completed the half Marathon race and won the metal). 
 
 <div style="text-align:left">
-     [<a href="#top"><input type="button" value="back to Homepage" /></a>](https://yuchen-sh.github.io)
+     <a href="#top"><input type="button" value="[back to Homepage](https://yuchen-sh.github.io)" /></a>
 </div>
