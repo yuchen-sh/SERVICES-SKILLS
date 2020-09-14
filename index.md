@@ -1,23 +1,27 @@
 ## <span id="j10"><font color='darkblue' face="Georgia">PROFESSIONAL SERVICES</font></span>
 * Reviewer: 
-  * IEEE Access
+  * IEEE Transactions on Networking
+  * IEEE Transactions on Wireless Communications
   * IEEE Transactions on Sustainable Computing
+  * IEEE Access
   * Journal of Frontiers of Information Technology & Electronic Engineering
   * IEEE IET Intelligent Transport Systems
+  * IEEE International Conference on Communications
+  * IEEE Vehicular Technology Conference
+
 * Technical Program Commitee: 
-  * IEEE ICC-2019
+  * IEEE ICC-2019, ICC-2020
   * IEEE VTC-2019 Spring
   
 ## <span id="j11"><font color='darkblue' face="Georgia">SKILLS & PROFICIENCY</font></span>
 * Advanced
   * Computer programming with **C/C++**;
-  * Modeling, scripting and data analysis with **MATLAB**, **Shell**;
-  * Knowledge and understanding of discrete events simulators with **ns-3**;
+  * Modeling, scripting and data analysis with **MATLAB**, **Python**, **Shell**;
+  * Knowledge and understanding of software and tools with **ns-3**, **TensorFlow**;
   * Documental skills with **LaTeX** and **MS office suite**;
   * Operation system with **Linux**.
 * Immediate
   * data visualization with gnuplot;
-  * scripting and data analysis with Python;
   * Git, SVN versioning systems.
   
 ## <span id="j12"><font color='darkblue' face="Georgia">LANGUAGES & INTERESTS</font></span>
