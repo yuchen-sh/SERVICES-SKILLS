@@ -26,7 +26,7 @@
   
 ## <span id="j12"><font color='darkblue' face="Georgia">LANGUAGES & INTERESTS</font></span>
 * English (Professional), Chinese (Native);
-* Swimming, Skating, Badmintton & Ping-pong ball (skillful); 
+* Swimming, Skating, Tennis, Badmintton & Ping-pong ball (skillful); 
 * Skiing (beginner);
 * Marathon (completed the half Marathon race and won the metal). 
 
