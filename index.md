@@ -3,6 +3,7 @@
   * IEEE/ACM Transactions on Networking
   * IEEE Transactions on Wireless Communications
   * IEEE Transactions on Sustainable Computing
+  * IEEE Networking Letters
   * IEEE Access
   * Journal of Frontiers of Information Technology & Electronic Engineering
   * IEEE IET Intelligent Transport Systems
