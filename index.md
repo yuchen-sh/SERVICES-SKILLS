@@ -6,11 +6,12 @@
   * IEEE Networking Letters
   * IEEE Access
   * Journal of Frontiers of Information Technology & Electronic Engineering
-  * IEEE IET Intelligent Transport Systems
+  * IET Intelligent Transport Systems
   * IEEE International Conference on Communications
   * IEEE Vehicular Technology Conference
 
 * Technical Program Commitee: 
+  * ICN-2021
   * IEEE ICC-2019, ICC-2020
   * IEEE VTC-2019 Spring
   
