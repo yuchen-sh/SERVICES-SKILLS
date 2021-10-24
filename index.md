@@ -2,6 +2,7 @@
 * Reviewer: 
   * IEEE/ACM Transactions on Networking
   * IEEE Transactions on Wireless Communications
+  * IEEE Transactions on Vehicular Technology
   * IEEE Transactions on Sustainable Computing
   * IEEE Networking Letters
   * IEEE Access
@@ -17,7 +18,7 @@
   
 ## <span id="j11"><font color='darkblue' face="Georgia">SKILLS & PROFICIENCY</font></span>
 * Advanced
-  * Computer programming with **C/C++**;
+  * Computer programming with **C/C++**, **Python**;
   * Modeling, scripting and data analysis with **MATLAB**, **Python**, **Shell**;
   * Knowledge and understanding of software and tools with **ns-3**, **TensorFlow**;
   * Documental skills with **LaTeX** and **MS office suite**;
