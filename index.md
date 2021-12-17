@@ -1,7 +1,7 @@
 ## <span id="j10"><font color='darkblue' face="Georgia">PROFESSIONAL SERVICES</font></span>
 * Technical Program Commitee:
   * Co-Chair of ACM WNS3 2022 (please submit a research paper if you are interested in [here](https://www.nsnam.org/research/wns3/wns3-2022/call-for-papers))
-  * ICN-2021
+  * ICN-2021, 2022
   * IEEE ICC-2019, ICC-2020
   * IEEE VTC-2019 Spring
 
@@ -25,9 +25,7 @@
   * Knowledge and understanding of software and tools with **ns-3**, **TensorFlow**;
   * Documental skills with **LaTeX** and **MS office suite**;
   * Operation system with **Linux**.
-* Immediate
-  * data visualization with gnuplot;
-  * Git, SVN versioning systems.
+
   
 ## <span id="j12"><font color='darkblue' face="Georgia">LANGUAGES & INTERESTS</font></span>
 * English (Professional), Chinese (Native);
