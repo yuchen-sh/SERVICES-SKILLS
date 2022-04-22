@@ -6,6 +6,7 @@
   * IEEE VTC-2019 Spring
 
 * Reviewer: 
+  * IEEE Transactions on Mobile Computing
   * IEEE/ACM Transactions on Networking
   * IEEE Transactions on Wireless Communications
   * IEEE Transactions on Vehicular Technology
