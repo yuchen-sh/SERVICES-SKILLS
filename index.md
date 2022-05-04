@@ -19,13 +19,13 @@
   * IEEE Vehicular Technology Conference, etc.
 
   
-## <span id="j11"><font color='darkblue' face="Georgia">SKILLS & PROFICIENCY</font></span>
+<!-- ## <span id="j11"><font color='darkblue' face="Georgia">SKILLS & PROFICIENCY</font></span>
 * Advanced
   * Computer programming with **C/C++**, **Python**;
   * Modeling, scripting and data analysis with **MATLAB**, **Python**, **Shell**;
   * Knowledge and understanding of software and tools with **ns-3**, **TensorFlow**;
   * Documental skills with **LaTeX** and **MS office suite**;
-  * Operation system with **Linux**.
+  * Operation system with **Linux**. -->
 
   
 ## <span id="j12"><font color='darkblue' face="Georgia">LANGUAGES & INTERESTS</font></span>
