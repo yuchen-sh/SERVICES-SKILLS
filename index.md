@@ -28,7 +28,7 @@
   * Operation system with **Linux**. -->
 
   
-## <span id="j12"><font color='darkblue' face="Georgia">LANGUAGES & INTERESTS</font></span>
+## <span id="j12"><font color='darkblue' face="Georgia" size="5">LANGUAGES & INTERESTS</font></span>
 * English (Professional), Chinese (Native);
 * Swimming, Skating, Tennis, Badmintton & Table Tennis (skillful); 
 * Skiing (beginner);
