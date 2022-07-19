@@ -12,11 +12,12 @@
   * IEEE Transactions on Vehicular Technology
   * IEEE Transactions on Sustainable Computing
   * IEEE Networking Letters
+  * IEEE Systems Journal
+  * IEEE Transactions on Green Communications and Networking
   * IEEE Access
+  * Elsevier Computer Networks
   * Journal of Frontiers of Information Technology & Electronic Engineering
-  * IET Intelligent Transport Systems
-  * IEEE International Conference on Communications
-  * IEEE Vehicular Technology Conference, etc.
+  * IET Intelligent Transport Systems, etc.
 
   
 <!-- ## <span id="j11"><font color='darkblue' face="Georgia" size="5">SKILLS & PROFICIENCY</font></span>
