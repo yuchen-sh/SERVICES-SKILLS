@@ -1,5 +1,6 @@
 ## <span id="j10"><font color='darkblue' face="Georgia" size="5">PROFESSIONAL SERVICES</font></span>
 * Conference Organization and Technical Program Commitee:
+  * Editorial Board Member of Internet of Things and Applications 
   * TPC of IEEE MetaCom 2023
   * Co-Chair of ACM WNS3 2023
   * TPC of ICN-2023
