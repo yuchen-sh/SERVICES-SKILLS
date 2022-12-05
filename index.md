@@ -22,8 +22,10 @@
   * IEEE Transactions on Green Communications and Networking
   * IEEE Access
   * Elsevier Computer Networks
+  * International Journal of Wireless Communications and Mobile Computing
   * Journal of Frontiers of Information Technology & Electronic Engineering
-  * IET Intelligent Transport Systems, etc.
+  * IET Intelligent Transport Systems
+  * etc.
 
   
 <!-- ## <span id="j11"><font color='darkblue' face="Georgia" size="5">SKILLS & PROFICIENCY</font></span>
