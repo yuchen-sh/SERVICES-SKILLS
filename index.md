@@ -5,7 +5,7 @@
   * TPC of IEEE MetaCom 2023
   * Co-Chair of ACM WNS3 2023
   * TPC of IEEE ICCCN 2023
-  * TPC of International Conference on Computer Systems and Communication Technology, 2022 
+  * TPC of International Conference on Computer Systems and Communication Tech., 2022 
   * Co-Chair of ACM WNS3 2022 (please submit a research paper if you are interested in [here](https://www.nsnam.org/research/wns3/wns3-2022/call-for-papers))
   * TPC of ICN-2021, 2022, 2023
   * TPC of IEEE ICC-2019, ICC-2020, ICC-2022
