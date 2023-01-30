@@ -17,6 +17,7 @@
   * IEEE Transactions on Mobile Computing
   * IEEE/ACM Transactions on Networking
   * IEEE Transactions on Wireless Communications
+  * IEEE Journal on Selected Areas in Communications
   * IEEE Communications Surveys and Tutorials
   * IEEE Transactions on Vehicular Technology
   * IEEE Transactions on Sustainable Computing
