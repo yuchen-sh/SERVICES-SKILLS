@@ -3,6 +3,7 @@
   * Editorial Board (Section Editor) of International Journal of Sensors, Wireless Communications and Control
   * Editorial Board Member of Internet of Things and Applications 
   * Co-Chair of ACM WNS3 2023 (please submit a research paper if you are interested in [here](https://www.nsnam.org/research/wns3/wns3-2023/call-for-papers))
+  * TPC of IEEE IPCCC 2023
   * TPC of IFIP Networking 2023
   * TPC of IEEE LCN 2023
   * TPC of IEEE MetaCom 2023
