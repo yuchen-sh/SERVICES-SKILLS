@@ -1,6 +1,7 @@
 ## <span id="j10"><font color='darkblue' face="Georgia" size="5">PROFESSIONAL SERVICES</font></span>
 * Conference Organization and Technical Program Commitee:
-  * Editorial Board (Section Editor) of International Journal of Sensors, Wireless Communications and Control
+  * Editorial Board (Associate Editor), IEEE Transactions on Green Communications and Networking
+  * Editorial Board (Section Editor), International Journal of Sensors, Wireless Communications and Control
   * Technical Committee of Elsevier Computer Communications 
   * Editorial Board Member of Internet of Things and Applications 
   * Co-Chair of ACM WNS3 2023 (please submit a research paper if you are interested in [here](https://www.nsnam.org/research/wns3/wns3-2023/call-for-papers))
