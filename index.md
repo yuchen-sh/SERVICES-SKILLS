@@ -26,6 +26,7 @@
   * IEEE Communications Surveys and Tutorials
   * IEEE Transactions on Vehicular Technology
   * IEEE Transactions on Sustainable Computing
+  * IEEE Transactions on Knowledge and Data Engineering
   * IEEE Networking Letters
   * IEEE Systems Journal
   * IEEE Transactions on Green Communications and Networking
