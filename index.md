@@ -5,6 +5,7 @@
   * **Technical Committee** of Elsevier Computer Communications, 2023 - present 
   * **Editorial Board Member** of Internet of Things and Applications, 2022 - present 
   * **Co-Chair** of ACM WNS3 2023 (please submit a research paper if you are interested in [here](https://www.nsnam.org/research/wns3/wns3-2023/call-for-papers))
+  * **TPC** of ACM MSWiM 2023
   * **TPC** of ACM MobiWac 2023
   * **TPC** of IEEE IPCCC 2023
   * **TPC** of IFIP Networking 2023
