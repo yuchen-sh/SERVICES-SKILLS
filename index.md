@@ -53,8 +53,7 @@
   
 ## <span id="j12"><font color='darkblue' face="Georgia" size="5">LANGUAGES & INTERESTS</font></span>
 * English (Professional), Chinese (Native);
-* Swimming, Skating, Tennis, Badmintton & Table Tennis (skillful); 
-* Skiing & Climbing (beginner);
+* Swimming, Tennis, Badmintton & Skiing;
 * Marathon (completed the half Marathon race and won the metal). 
 
 [<u><font size='4'>Back to Homepage</font></u>](https://yuchen-sh.github.io)
