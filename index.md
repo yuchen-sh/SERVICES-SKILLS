@@ -1,6 +1,6 @@
 ## <span id="j10"><font color='darkblue' face="Georgia" size="5">PROFESSIONAL SERVICES</font></span>
 * Editorship and Technical Program Commitee:
-&emsp;
+  &emsp;
   * **Editorial Board (Associate Editor)**, IEEE Transactions on Green Communications and Networking, 2023 - present
   * **Editorial Board (Section Editor)**, International Journal of Sensors, Wireless Communications and Control, 2022 - present
   * **Technical Committee** of Elsevier Computer Communications, 2023 - present 
@@ -20,9 +20,10 @@
   * **TPC** of IEEE ICC-2019, ICC-2020, ICC-2022
   * **TPC** of IEEE VTC-2019 Spring, 2023
   * etc.
+  &emsp;
 
 * Journal Reviewer:
-&emsp;
+  &emsp;
   * IEEE Transactions on Mobile Computing
   * IEEE/ACM Transactions on Networking
   * IEEE Transactions on Wireless Communications
@@ -40,7 +41,6 @@
   * Journal of Frontiers of Information Technology & Electronic Engineering
   * IET Intelligent Transport Systems
   * etc.
-
   
 <!-- ## <span id="j11"><font color='darkblue' face="Georgia" size="5">SKILLS & PROFICIENCY</font></span>
 * Advanced
