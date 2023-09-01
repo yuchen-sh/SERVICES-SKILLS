@@ -2,7 +2,6 @@
 * Editorship and Technical Program Commitee:
 
   &emsp;
-  
   * **Editorial Board (Associate Editor)**, IEEE Transactions on Green Communications and Networking, 2023 - present
   * **Editorial Board (Section Editor)**, International Journal of Sensors, Wireless Communications and Control, 2022 - present
   * **Technical Committee** of Elsevier Computer Communications, 2023 - present 
@@ -24,11 +23,9 @@
   * etc.
   
   &emsp;
-
 * Journal Reviewer:
   
   &emsp;
-  
   * IEEE Transactions on Mobile Computing
   * IEEE/ACM Transactions on Networking
   * IEEE Transactions on Wireless Communications
