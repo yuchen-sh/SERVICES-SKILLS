@@ -11,6 +11,7 @@
   * **Steering Committee** of IEEE IPCCC 2023
   * **TPC** of IFIP Networking 2023
   * **TPC** of IEEE LCN 2023
+  * **TPC** of IEEE ICPADS 2023
   * **TPC** of IEEE MetaCom 2023
   * **TPC** of IEEE ICCCN 2023
   * **TPC** of IEEE HPSR 2023
