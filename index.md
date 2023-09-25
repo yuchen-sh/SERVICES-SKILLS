@@ -8,7 +8,7 @@
   * **Co-Chair** of ACM WNS3 2023 (please submit a research paper if you are interested in [here](https://www.nsnam.org/research/wns3/wns3-2023/call-for-papers))
   * **TPC** of ACM MSWiM 2023
   * **TPC** of ACM MobiWac 2023
-  * **TPC** of IEEE IPCCC 2023
+  * **Steering Committee** of IEEE IPCCC 2023
   * **TPC** of IFIP Networking 2023
   * **TPC** of IEEE LCN 2023
   * **TPC** of IEEE MetaCom 2023
