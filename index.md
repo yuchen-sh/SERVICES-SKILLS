@@ -38,6 +38,7 @@
   * IEEE Transactions on Green Communications and Networking
   * IEEE Access
   * Elsevier Computer Networks
+  * Engineering Applications of Artificial Intelligence
   * Ad Hoc Networks
   * International Journal of Wireless Communications and Mobile Computing
   * Journal of Frontiers of Information Technology & Electronic Engineering
