@@ -39,6 +39,7 @@
   * IEEE Access
   * Elsevier Computer Networks
   * Engineering Applications of Artificial Intelligence
+  * Annals of Telecommunications
   * Ad Hoc Networks
   * International Journal of Wireless Communications and Mobile Computing
   * Journal of Frontiers of Information Technology & Electronic Engineering
