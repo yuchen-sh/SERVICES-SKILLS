@@ -6,7 +6,7 @@
   * **Technical Committee** of Elsevier Computer Communications, 2023 - present 
   * **Editorial Board Member** of Internet of Things and Applications, 2022 - present
   * **TPC Chair** of IEEE ICC Workshop on Edge Learning over 5G Mobile Networks and Beyond, 2024
-  * **Workshop Chair** of The 48th IEEE International Conference on Computers, Software, and Applications (COMPSAC 2024) on Digital Twins for the Metaverse
+  * **Workshop Chair** of The 48th IEEE COMPSAC on Digital Twins for the Metaverse, 2024
   * **Co-Chair** of ACM WNS3 2023
   * **TPC** of IFIP Networking 2023, 2024
   * **TPC** of IEEE HPSR 2023, 2024
