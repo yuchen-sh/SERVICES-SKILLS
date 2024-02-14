@@ -5,12 +5,14 @@
   * **Editorial Board (Section Editor)**, International Journal of Sensors, Wireless Communications and Control, 2022 - present
   * **Editorial Board Member** of Internet of Things and Applications, 2022 - present
 
+
 * Conference and Workshop Organization
   * **TPC Chair** of IEEE ICC Workshop on Edge Learning over 5G Mobile Networks and Beyond, 2024
   * **Workshop Chair** of The 48th IEEE COMPSAC on Digital Twins for the Metaverse, 2024
   * **TPC Chair** of IEEE ICC Workshop on Edge Learning over 5G Mobile Networks and Beyond, 2024
   * **Workshop Chair** of The 48th IEEE COMPSAC on Digital Twins for the Metaverse, 2024
   * **Workshop Co-Chair** of ACM WNS3 2022-2023
+
 
 * Conference Technical Committee
   * **TPC** of ACM MobiHoc 2024
@@ -29,6 +31,7 @@
   * **TPC** of IEEE ICC-2019, ICC-2020, ICC-2022
   * **TPC** of IEEE VTC-2019 Spring, 2023
   * etc.
+
 
 * Journal Reviewer:  
   * IEEE Transactions on Mobile Computing
