@@ -8,7 +8,7 @@
   &nbsp;
   &nbsp;
   &nbsp;            
-      
+       
   * Conference and Workshop Organization
     * **TPC Chair** of IEEE ICC Workshop on Edge Learning over 5G Mobile Networks and Beyond, 2024
     * **Workshop Chair** of The 48th IEEE COMPSAC on Digital Twins for the Metaverse, 2024
