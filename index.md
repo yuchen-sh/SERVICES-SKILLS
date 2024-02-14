@@ -5,7 +5,6 @@
      * **Editorial Board (Section Editor)**, International Journal of Sensors, Wireless Communications and Control, 2022 - present
      * **Editorial Board Member** of Internet of Things and Applications, 2022 - present
 
-  &emsp;
 
   * Conference and Workshop Organization
     * **TPC Chair** of IEEE ICC Workshop on Edge Learning over 5G Mobile Networks and Beyond, 2024
