@@ -4,9 +4,8 @@
      * **Editorial Board (Associate Editor)**, IEEE Transactions on Green Communications and Networking, 2023 - present
      * **Editorial Board (Section Editor)**, International Journal of Sensors, Wireless Communications and Control, 2022 - present
      * **Editorial Board Member** of Internet of Things and Applications, 2022 - present
-  
-     
 
+        
   * Conference and Workshop Organization
     * **TPC Chair** of IEEE ICC Workshop on Edge Learning over 5G Mobile Networks and Beyond, 2024
     * **Workshop Chair** of The 48th IEEE COMPSAC on Digital Twins for the Metaverse, 2024
