@@ -7,7 +7,7 @@
   &nbsp;
   &nbsp;
   &nbsp;
-  &nbsp;          
+  &nbsp;           
       
   * Conference and Workshop Organization
     * **TPC Chair** of IEEE ICC Workshop on Edge Learning over 5G Mobile Networks and Beyond, 2024
