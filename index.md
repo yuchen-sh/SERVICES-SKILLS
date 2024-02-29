@@ -28,7 +28,7 @@
     * **TPC** of ACM MobiWac 2023
     * **Steering Committee** of IEEE IPCCC 2023
     * **TPC** of IEEE ICPADS 2023
-    * **TPC** of IEEE MetaCom 2023
+    * **TPC** of IEEE MetaCom 2023, 2024
     * **TPC** of IEEE ICCCN 2023
     * **TPC** of International Conference on Computer Systems and Communication Tech., 2022 
     * **TPC** of ICN-2021, 2022, 2023, 2024
