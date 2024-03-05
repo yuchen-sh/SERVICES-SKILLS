@@ -21,6 +21,7 @@
 
   * Conference Technical Committee:
     * **TPC** of ACM MobiHoc 2024
+    * **TPC** of IEEE CCNC 2025
     * **TPC** of IFIP Networking 2023, 2024
     * **TPC** of IEEE LCN 2023, 2024
     * **TPC** of IEEE HPSR 2023, 2024
