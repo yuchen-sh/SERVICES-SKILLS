@@ -1,6 +1,7 @@
 ## <span id="j10"><font color='darkblue' face="Georgia" size="5">PROFESSIONAL SERVICES</font></span>
    * Journal Editorship:
      * **Editorial Board (Area Editor)**, Elsevier Computer Networks, 2024 - present
+     * **Editorial Board (Associate Editor)**, IEEE Transactions on Machine Learning in Communications and Networking, 2024 - present
      * **Editorial Board (Associate Editor)**, IEEE Transactions on Green Communications and Networking, 2023 - present
      * **Editorial Board (Section Editor)**, International Journal of Sensors, Wireless Communications and Control, 2022 - present
      * **Editorial Board Member** of Internet of Things and Applications, 2022 - present    
