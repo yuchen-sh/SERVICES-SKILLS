@@ -56,7 +56,6 @@
     * IEEE Systems Journal
     * IEEE Transactions on Green Communications and Networking
     * IEEE Internet of Things Journal
-    * IEEE Access
     * Elsevier Computer Networks
     * Elsevier Computer Communications
     * Engineering Applications of Artificial Intelligence
