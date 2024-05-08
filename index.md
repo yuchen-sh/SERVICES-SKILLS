@@ -56,6 +56,7 @@
     * IEEE Systems Journal
     * IEEE Transactions on Green Communications and Networking
     * IEEE Internet of Things Journal
+    * ACM Transactions on Design Automation of Electronic Systems
     * Elsevier Computer Networks
     * Elsevier Computer Communications
     * Engineering Applications of Artificial Intelligence
