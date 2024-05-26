@@ -50,6 +50,7 @@
     * IEEE Journal on Selected Areas in Communications
     * IEEE Communications Surveys and Tutorials
     * IEEE Transactions on Vehicular Technology
+    * IEEE Transactions on Information Forensics & Security
     * IEEE Transactions on Sustainable Computing
     * IEEE Transactions on Knowledge and Data Engineering
     * IEEE Networking Letters
