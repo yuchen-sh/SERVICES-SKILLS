@@ -66,6 +66,10 @@
     * Journal of Frontiers of Information Technology & Electronic Engineering
     * IET Intelligent Transport Systems
     * etc.
+
+
+## <span id="j10"><font color='darkblue' face="Georgia" size="5">NCSU SERVICES</font></span>
+* Ph.D. Program Task Force Committee in Department of Computer Science
   
 <!-- ## <span id="j11"><font color='darkblue' face="Georgia" size="5">SKILLS & PROFICIENCY</font></span>
 * Advanced
@@ -74,6 +78,7 @@
   * Knowledge and understanding of software and tools with **ns-3**, **TensorFlow**;
   * Documental skills with **LaTeX** and **MS office suite**;
   * Operation system with **Linux**. -->
+
 
   
 ## <span id="j12"><font color='darkblue' face="Georgia" size="5">LANGUAGES & INTERESTS</font></span>
