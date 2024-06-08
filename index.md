@@ -68,6 +68,9 @@
     * Journal of Frontiers of Information Technology & Electronic Engineering
     * IET Intelligent Transport Systems
     * etc.
+   
+  * Funding Review Panelist:
+    * DOE Office of SGSR Program
 
 
 ## <span id="j10"><font color='darkblue' face="Georgia" size="5">NCSU SERVICES</font></span>
