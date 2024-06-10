@@ -67,7 +67,7 @@
     * International Journal of Wireless Communications and Mobile Computing
     * Journal of Frontiers of Information Technology & Electronic Engineering
     * IET Intelligent Transport Systems
-    * etc.
+    * etc.       
   &nbsp;
   &nbsp;
   &nbsp;
