@@ -11,6 +11,7 @@
   &nbsp;            
        
   * Conference and Workshop Organization:
+    * **Workshop Chair** of IEEE GLOBECOM on Digital Twins over Wireless Networks, 2024
     * **TPC Chair** of IEEE ICC Workshop on Edge Learning over 5G Mobile Networks and Beyond, 2024
     * **Session Chair** of IEEE ICC on SPC: Massive MIMO and mmWave Communications, 2024 
     * **Workshop Chair** of The 48th IEEE COMPSAC on Digital Twins for the Metaverse, 2024
