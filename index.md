@@ -56,6 +56,7 @@
     * IEEE Transactions on Sustainable Computing
     * IEEE Transactions on Knowledge and Data Engineering
     * IEEE Networking Letters
+    * IEEE Network Magazine
     * IEEE Systems Journal
     * IEEE Transactions on Green Communications and Networking
     * IEEE Internet of Things Journal
